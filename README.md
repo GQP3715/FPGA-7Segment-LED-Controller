@@ -1,10 +1,11 @@
-##🎯 Project Overview
+Project Overview
 This project demonstrates controlling the **7-segment display** and **LEDs** of the Digilent Nexys 3 FPGA development board using **VHDL**.  
 
 It was developed as an **introductory FPGA design project**, showcasing how digital inputs (switches & push buttons) can be used to drive visual outputs in real time.
 
 -- 
-##Implementation Details
+
+Implementation Details
 - **Language:** VHDL  
 - **Toolchain:** Xilinx ISE (Spartan-6)  
 - **Board:** Digilent Nexys 3  
